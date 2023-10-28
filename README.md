@@ -4,11 +4,11 @@ Neural-MBFL is a novel fault localization approach based on neural mutation.
 
 We utilize mutation techniques based on CodePTM at the token level, using μbert for mutant generation, replacing traditional mutation techniques in MBFL.
 Below is an experimental framework diagram of our project:
-![framework diagram](20231028162731.png)
+![framework diagram](framework.png)
 
 ## Requirements
 - `python 3.10`
-  [*CodeBERT*](https://github.com/microsoft/CodeBERT) dependencies:
+-[*CodeBERT*](https://github.com/microsoft/CodeBERT) dependencies:
   - `pip install torch`
   - `pip install transformers`
 
