@@ -7,7 +7,7 @@ Below is an experimental framework diagram of our project:
 ![framework diagram](framework.png)
 
 ## Requirements
-- `python 3.10`
+- `python 3.7.0`
 - [*CodeBERT*](https://github.com/microsoft/CodeBERT) dependencies:
   - `pip install torch`
   - `pip install transformers`
